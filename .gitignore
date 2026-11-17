@@ -1,0 +1,7 @@
+# Build artifacts (not part of the submitted entry)
+prompts/
+tools/
+best-game-01-kit/
+kit.tar.gz
+PREP.md
+DESIGN.md
